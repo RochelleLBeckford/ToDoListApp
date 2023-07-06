@@ -18,8 +18,10 @@
     - [ ] HTML
     - [ ] CSS
     - [ ] JavaScript
+    - [ ] React
 - [ ]  HTML → will be the structure and skeleton of how the app will appear on the webpage
 - [ ]  CSS → encompass the style of the app and give it some flare
 - [ ]  JavaScript → provide the functionality of the page
     - [ ]  If I click or do this → this will happen
+- [ ] React → front-end JavaScript library used to build user interfaces
 ***

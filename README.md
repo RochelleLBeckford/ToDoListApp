@@ -24,4 +24,7 @@
 - [ ]  JavaScript → provide the functionality of the page
     - [ ]  If I click or do this → this will happen
 - [ ] React → front-end JavaScript library used to build user interfaces
+---
+- [ ] Link for the web application: https://ro-todo-list-app.netlify.app/
+--- 
 ***
